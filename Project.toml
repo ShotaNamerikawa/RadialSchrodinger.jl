@@ -1,0 +1,13 @@
+name = "RadialSchrodinger"
+uuid = "b377fff8-b2f2-4d5a-9a12-169e7f716b67"
+authors = ["ShotaNamerikawa <shota.namerikawa@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
